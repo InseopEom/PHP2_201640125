@@ -8,3 +8,4 @@ Rewritcond %[REQUEST_FILENAME] !-l
 
 #쿼리스트링
 RewriteRule ^ index.php [QSA,L]
+//index파일을 실행할 수있게 함.
