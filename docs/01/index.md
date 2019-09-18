@@ -4,5 +4,5 @@
 
 화면 캡처..
 ![bts](./images/images.jpg)
-<img src ="./images/images.jpg" alt="" >
-<!--이미지가 안갔을때 alt메시지가 간다
+<img src ="./imgs/images.jpg" alt="" >
+<!--이미지가 안갔을때 alt메시지가 간다-->
