@@ -3,12 +3,12 @@
 
 $host = "localhost";
 $user = "phpuser";
-$passwd = "multi1004";
+$passwd = "5534";
 $database = "php";
 
-return [ 
-    "host"=>$host, 
-    "user"=> $user, 
-    "passwd"=>$passwd, 
-    "database"=>$database 
+return [
+    "host"=>$host,
+    "user"=> $user,
+    "passwd"=>$passwd,
+    "database"=>$database
 ];
